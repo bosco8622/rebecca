@@ -50,18 +50,18 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "HAPPY BIRTHDAY!!! 🎉🎂🎊",
-        message: "",
+        message: "Click here for your gift!🎁",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#f8c8d2",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#d1e0e0",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#f7a8b8",     // Button color (should stand out against the background)
+        buttonHover: "#ffbbc1",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#5d4b6d"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
