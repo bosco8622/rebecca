@@ -48,8 +48,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "生日快乐!!! 🎉🎂🎊",
-        message: "截图这个发给我，为了你的礼物!🎁",
+        title: "截图这个发给我，为了你的礼物!🎁",
+        message: "生日快乐!!! 🎉🎂🎊",
         emojis: "🎁💖🤗💝🎂🎉❤️🎊💕"  // These will bounce around
     },
 
