@@ -4,7 +4,6 @@
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
-    // Example: "Jade", "Sarah", "Mike"
     valentineName: "赵彬洁",
 
     // The title that appears in the browser tab
@@ -22,18 +21,18 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "你喜欢我吗?",                                    // First interaction
+            text: "你喜欢我吗？",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "我不喜欢你，我爱你! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "你有多爱我？",                          // For the love meter
+            startText: "这么多!",                                   // Text before the percentage
+            nextBtn: "下一个 ❤️"                                         // Text for the next button
         },
         third: {
-            text: "I have a gift for you! 🎁 Do you want it?", // The big question!
+            text: "我有礼物给你！🎁 你想要吗？", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -49,8 +48,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "HAPPY BIRTHDAY!!! 🎉🎂🎊",
-        message: "Screenshot this and send it to me for your gift!🎁",
+        title: "生日快乐!!! 🎉🎂🎊",
+        message: "截图这个发给我，为了你的礼物!🎁",
         emojis: "🎁💖🤗💝🎂🎉❤️🎊💕"  // These will bounce around
     },
 
