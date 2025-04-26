@@ -59,7 +59,7 @@ window.addEventListener('DOMContentLoaded', () => {
     validateConfig();
 
     // Set texts from config
-    document.getElementById('valentineTitle').textContent = `${config.valentineName}, my little princess👸...`;
+    document.getElementById('valentineTitle').textContent = `${config.valentineName}, 我的小公主👸...`;
     
     // Set first question texts
     document.getElementById('question1Text').textContent = config.questions.first.text;
