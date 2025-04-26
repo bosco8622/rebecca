@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "哇——你那么爱我吗?? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "到无限和更多的! 🚀💝",              // Shows when they go past 1000%
+        normal: "和更多的! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "HAPPY BIRTHDAY!!! 🎉🎂🎊",
-        message: "Click here for your gift!🎁",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "Screenshot this and send it to me for your gift!🎁",
+        emojis: "🎁💖🤗💝🎂🎉❤️🎊💕"  // These will bounce around
     },
 
     // Color scheme for the website
